@@ -1,11 +1,16 @@
 _repo: Rules-of-the-Western-Grammar-School-Brompton_62064
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62064-h/images/cover.jpg
 creator:
   author:
     agent_name: Brompton Western Grammar School
     gutenberg_agent_id: '51757'
     url: http://www.gutenberg.org/2009/agents/51757
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62064#Rules-of-the-Western-Grammar-School-Brompton
 gutenberg_issued: '2020-05-09'
 gutenberg_type: Text
 identifiers:
